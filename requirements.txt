@@ -1,0 +1,9 @@
+groq
+numexpr
+langchain
+langchain_groq
+langchain_core
+langchain_community
+python-dotenv
+nbconvert
+chainlit
