@@ -34,12 +34,10 @@
         <pre><code>git clone https://github.com/yourusername/numerix.git</code></pre>
     </li>
     <li><strong>Install Dependencies</strong>: Navigate to the project directory and install the necessary dependencies.
-        <pre><code>cd numerix
-        pip install -r requirements.txt</code></pre>
+        <pre><code>cd numerix<br>pip install -r requirements.txt</code></pre>
     </li>
     <li><strong>Set Up Environment Variables</strong>: Create a <code>.env</code> file in the root directory of the project and include your Langchain and Groq API keys.
-        <pre><code>LANGCHAIN_API_KEY=your_langchain_api_key
-        GROQ_API_KEY=your_groq_api_key</code></pre>
+        <pre><code>LANGCHAIN_API_KEY=your_langchain_api_key<br>GROQ_API_KEY=your_groq_api_key</code></pre>
     </li>
     <li><strong>Run the Application</strong>: Use Streamlit to run the Numerix application.
         <pre><code>streamlit run app.py</code></pre>
