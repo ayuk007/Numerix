@@ -31,10 +31,10 @@
 <h2>Setup Instructions</h2>
 <ol>
     <li><strong>Clone the Repository</strong>: Clone the Numerix repository to your local machine.
-        <pre><code>git clone https://github.com/yourusername/numerix.git</code></pre>
+        <pre><code>git clone https://github.com/ayuk007/Numerix.git</code></pre>
     </li>
     <li><strong>Install Dependencies</strong>: Navigate to the project directory and install the necessary dependencies.
-        <pre><code>cd numerix
+        <pre><code>cd Numerix
 pip install -r requirements.txt</code></pre>
     </li>
     <li><strong>Set Up Environment Variables</strong>: Create a <code>.env</code> file in the root directory of the project and include your Langchain and Groq API keys.
@@ -50,7 +50,7 @@ GROQ_API_KEY=your_groq_api_key</code></pre>
 <ol>
     <li>Open the Numerix application in your web browser.</li>
     <li>Enter a mathematical question in the input field.</li>
-    <li>Click the "Submit" button to get the answer.</li>
+    <li>Click the "Answer" button to get the answer.</li>
 </ol>
 
 <h2>Contributing</h2>
